@@ -35,7 +35,7 @@ In this phase, the smart contract will be deployed over a private network that i
 
 1- applied what we have learned during fintech Bootcamp.
 
-2- When applying KYC by using blockchain can be accheved:
+2- When applying KYC by using blockchain can be achieved:
 
 a- Data Quality: all data alterations are tracked and monitored in real-time.0
 

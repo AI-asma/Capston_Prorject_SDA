@@ -15,13 +15,8 @@ Project Structure:
 
 - Phase 1:
 Whenever a new customer enters the ecosystem, a bank initiates a KYC request for the customer.
-
 Once checked for veracity, the bank uploads the customer's data onto the blockchain using the smart contract.
-
-Whenever any new data is needed to be appended, the ledger could enable encrypted updates to the ledger. Mining will make sure that the data gets confirmed over the Blockchain and distributed to all other banks.
-
 The KYC data can be accessed by other banks in real-time as and when required.
-
 Other Banks can vote on the KYC process done by a bank for a customer to state that they acknowledge the process and accept the customer details.
 
 
@@ -34,8 +29,9 @@ Admin can block any bank from doing a KYC, admin can also add new banks or remov
 - Phase 3:
 In this phase, the smart contract will be deployed over a private network that is put up between various banks.
 
-**Group Number # or Name**: 
-#5
+**Group Name**: 
+"SAMA"
+
 **Group Members**: 
 1. Alaa
 2. Shahad

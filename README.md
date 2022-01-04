@@ -29,6 +29,14 @@ Admin can block any bank from doing a KYC, admin can also add new banks or remov
 - Phase 3:
 In this phase, the smart contract will be deployed over a private network that is put up between various banks.
 
+**Goals:**
+1- Contains Solidity contract -Customer-  (1Day) Alaa, Shahad ,Using solidity.
+2- contains solidity contract-Bank-(1Day) Asma, Maryam, Using solidity. 
+3- Smart contract will be deployed over a private network (3 hrs) All Members Using solidity, truffle.
+4-Presentation:Alaa, Asma, Shahad and Maryam, (1day)Presented with PowerPoint, screenshots from Remix.
+**Presentation Time Estimate:**
+20 minutes + Q/A
+
 **Group Name**: 
 "SAMA"
 

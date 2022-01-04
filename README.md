@@ -33,11 +33,16 @@ In this phase, the smart contract will be deployed over a private network that i
 ## Goals: 
 - Main goals:
 
-1- applied what we have learned during fintech Bootcamp .
+1- applied what we have learned during fintech Bootcamp.
+
 2- When applying KYC by using blockchain can be accheved:
+
 a- Data Quality: all data alterations are tracked and monitored in real-time.0
+
 b- Lowered turnaround time: through KYC Blockchain software solutions, FIs get direct access to the data which saves data gathering & processing time
+
 c- Reduced manual labor: KYC on Blockchain eliminates paperwork from the process. 
+
 The benefits of KYC Blockchain implementation cannot be limited to these points. There are a number of sector benefits that the process of KYC using Blockchain offers.
 
 - Streatch goals:
@@ -46,14 +51,19 @@ The benefits of KYC Blockchain implementation cannot be limited to these points.
 
 
 **Project Plan**
+
 1- created Phase 1 by using a smart contract for customer information by using solidity.
 Alaa - Shahad (1day)
+
 2- Then in Phase 2 admin functionalities are provided for the system, where an admin can track the actions such as upload or approval of KYC documents performed by banks by using solidity. 
 Asma, Maryam, (1day)
+
 3- After that in Phase 3 the smart contract will be deployed over a private network that is put up between various banks.
 (3 hrs) All Members Using solidity.
+
 4-Finally, Presentation: Alaa, Asma, Shahad and Maryam, (1day)
 Presented with PowerPoint, screenshots from Remix.
+
 **Presentation Time Estimate:**
 20 minutes + Q/A
 

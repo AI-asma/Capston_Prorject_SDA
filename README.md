@@ -1,5 +1,5 @@
-# Capston_Prorject_SDA
-#### *Blockchain in KYC Verification*:  
+
+# Blockchain in KYC Verification:  
 
 
 **Area of Project**:  

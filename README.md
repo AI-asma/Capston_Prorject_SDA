@@ -9,7 +9,7 @@ We need to go through a KYC verification in banks for updating our data and veri
 In our project, we will use a blockchain in KYC verification.
 Blockchain is an immutable distributed ledger shared with everyone involved in the network. Every participant interacts with the blockchain using a public-private cryptographic key combination. Moreover, immutable record storage is provided, which is very hard to tamper. Banks can utilize the feature set of Blockchain to reduce the difficulties faced by the traditional KYC process. A distributed ledger can be set up between all the banks, where one bank can upload the KYC of a customer and other banks can vote on the legitimacy of the customer details. KYC for the customers will be immutably stored on the blockchain and will be accessible to all the banks in the Blockchain.
 
-** Use Case**:  
+**Use Case**:  
 This case study is divided into 3 parts to achieve the solution:
 Project Structure:
 
@@ -27,11 +27,7 @@ Other Banks can vote on the KYC process done by a bank for a customer to state t
 
 - Phase 2:
 Admin functionalities are provided for the system, where an admin can track the actions such as upload or approval of KYC documents performed by banks.
-
 Other Banks can vote on the KYC process done by a bank for a customer. If the rating/votes are above the standard range then it is taken as an accepted KYC and used by other banks too.
-
-Banks also vote over the other banks to make sure that the banks are secure and not tampered with for the KYC process. This identifies whether the bank is corrupted and uploads fake customer KYC. This rating will help us to judge the bank activities and remove the fraudulent bank from our network.
-
 Admin can block any bank from doing a KYC, admin can also add new banks or remove untrusted banks from the smart contract.
 
 

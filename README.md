@@ -32,14 +32,16 @@ In this phase, the smart contract will be deployed over a private network that i
 **Goals:**
 ## Goals: 
 - Main goals:
+
 1- applied what we have learned during fintech Bootcamp .
 2- When applying KYC by using blockchain can be accheved:
-- Data Quality: all data alterations are tracked and monitored in real-time
-- Lowered turnaround time: through KYC Blockchain software solutions, FIs get direct access to the data which saves data gathering & processing time
-- Reduced manual labor: KYC on Blockchain eliminates paperwork from the process. 
+a- Data Quality: all data alterations are tracked and monitored in real-time.0
+b- Lowered turnaround time: through KYC Blockchain software solutions, FIs get direct access to the data which saves data gathering & processing time
+c- Reduced manual labor: KYC on Blockchain eliminates paperwork from the process. 
 The benefits of KYC Blockchain implementation cannot be limited to these points. There are a number of sector benefits that the process of KYC using Blockchain offers.
 
 - Streatch goals:
+
 1- The truffle project directory.
 
 
